@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+    .heading{
+        text-align: center;
+        margin-top: 20px;
+        font-size: 16px;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+    
+    table,tr, td
+    {
+        border: 1px groove grey;
+        text-align: center;
+        width: 500px;
+    }
+    table 
+    { 
+        margin: auto; 
+    }
+</style>
+
+<body>
+    
+    <div class="heading">
+        NUMBERS FROM 0 TO 10 WITH THEIR SQUARES AND CUBES
+    </div>
+
+<script>
+    document.write( "<table><tr><thcolspan='3'>  </th></tr>" );
+    document.write( "<tr><td>Number</td><td>Square</td><td>Cube</td></tr>" );
+    
+    for(var n=0; n<=10; n++)
+        {
+            document.write( "<tr><td>" + n + "</td><td>" + n*n + "</td><td>" + n*n*n+ "</td></tr>" ) ;
+        }
+    document.write( "</table>" ) ;
+</script>
+
+</body>
+</head>
+</html>
