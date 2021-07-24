@@ -1,6 +1,8 @@
-# WTA-LAB Programmes
+# :brain: WTA-LAB Programmes :brain:
 
-# Syllabus
+
+
+# :speech_balloon: Syllabus 
       1. Write a JavaScript to design a simple calculator to perform the following operations: sum,
       product, difference and quotient.
 
@@ -61,7 +63,7 @@
       10. Write a PHP program to sort the student records which are stored in the database using selection
             sort.
 
-# Outputs
+# :computer: Outputs :computer:
 
    ***`Calculator`***
       
