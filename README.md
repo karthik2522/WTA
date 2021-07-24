@@ -63,11 +63,11 @@
 
 # Outputs
 
-      1.Calculator
+   ***`Calculator`***
       
    ![alt text](https://github.com/karthik2522/WTA/blob/main/Outputs/calculator.JPG)
    
-      2.Sqaure and Cubes
+   ***`Sqaures and Cubes`***
       
    ![alt text](https://github.com/karthik2522/WTA/blob/main/Outputs/square.JPG)
 
