@@ -72,4 +72,7 @@
    ***`Sqaures and Cubes`***
       
    ![alt text](https://github.com/karthik2522/WTA/blob/main/Outputs/square.JPG)
-
+   
+   ***`TEXT_GROWING & SHRIKING`***
+   
+   ![alt](https://github.com/karthik2522/WTA/blob/main/Outputs/text-s.JPG)
